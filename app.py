@@ -62,7 +62,7 @@ def predictRoute():
                 'property_area': request.form.get('property_area')
             }
             
-            return render_template('index.html', prediction=prediction, form_data=form_data)
+            return render_template('form.html', prediction=prediction, form_data=form_data)
         
         else:
             return render_template('index.html')
