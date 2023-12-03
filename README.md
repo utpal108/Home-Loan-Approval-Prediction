@@ -5,8 +5,8 @@ Home Loan Approval Prediction System using machine learning algorithm to analyze
 
 ## Examples
 
-<img src="examples/example_01.png" width="200">&nbsp;
-<img src="examples/example_02.png" width="200">
+<img src="examples/example_01.png" width="340">&nbsp;
+<img src="examples/example_02.png" width="340">
 
 
 ## Workflows
